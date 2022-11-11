@@ -5,5 +5,5 @@ As targets floating on the sea surface get more miniature and less visible, it i
 
 For more details, one could read our paper [1]. In this project, ADN.py is a PyTorch implementation code, and you could easily transfer this network to your research by "from ADN import adn18". The required environments include "torch" and "functools". These codes refer to some parts of ACNet (https://github.com/DingXiaoH/ACNet) and SimAM (https://github.com/ZjjConan/SimAM).
 
-[1] Q. Qu, Y. -L. Wang, W. Liu, J. Wang, B. Li, N. Liu, and Q. Du, “Enhanced CNN-based Small Target Detection in Sea Clutter with Controllable False Alarm,” IEEE Transactions on Geoscience and Remote Sensing. (Under review)
+[1] Q. Qu, Y. -L. Wang, W. Liu, J. Wang, B. Li, N. Liu, and Q. Du, “Enhanced CNN-based Small Target Detection in Sea Clutter with Controllable False Alarm,” submitted.
 
